@@ -6,8 +6,8 @@ This proposal requests Canton Development Fund support to build a reusable refer
 
 The project combines three elements:
 
-- Minima's Integritas as the proof and provenance layer for machine-originated operational data
-- Tenzro as the Canton implementation partner for workflow and smart-contract development
+- Integritas (built by Minima AG) as the proof and provenance layer for machine-originated operational data
+- Tenzro (Technical champion) as the Canton implementation partner for workflow and smart-contract development
 - Canton’s privacy-preserving coordination and settlement environment
 
 The purpose of the proposal is not to fund proprietary Integritas product development. The purpose is to create shared Canton ecosystem value through a reusable reference architecture, proof-ingestion pattern, workflow design, and demonstration implementation that other Canton ecosystem participants can learn from and adapt.
@@ -205,17 +205,15 @@ Evidence that the work has ecosystem relevance beyond the initial demonstration 
 
 Funding is requested on a milestone basis in Canton Coin (CC), in line with Development Fund process.
 
-Because this proposal is still being finalized with delivery partner input, the exact CC amounts should be inserted after final scoping with Tenzro and internal resourcing confirmation.
-
 ### Proposed Funding Structure
 
-- **Milestone 1:** Architecture, requirements, and design package — **[insert CC amount]**
-- **Milestone 2:** Canton-side implementation and workflow build — **[insert CC amount]**
-- **Milestone 3:** End-to-end demonstration use case — **[insert CC amount]**
-- **Milestone 4:** Documentation and ecosystem reuse pack — **[insert CC amount]**
-- **Milestone 5:** Adoption validation and next-phase roadmap — **[insert CC amount]**
+- **Milestone 1:** Architecture, requirements, and design package — **[200k CC]**
+- **Milestone 2:** Canton-side implementation and workflow build — **[200k CC]**
+- **Milestone 3:** End-to-end demonstration use case — **[500kCC]**
+- **Milestone 4:** Documentation and ecosystem reuse pack — **[340k CC]**
+- **Milestone 5:** Adoption validation and next-phase roadmap — **[200k cc]**
 
-**Total Requested Funding:** **[insert total CC amount]**
+**Total Requested Funding:** **[1.44m CC]**
 
 If the project duration exceeds six months, the team is open to re-evaluation of milestone values in line with Development Fund guidance on price volatility and longer-duration projects.
 
@@ -225,7 +223,7 @@ If the project duration exceeds six months, the team is open to re-evaluation of
 Minima will lead the project, define workflow requirements, provide the proof and provenance architecture, and manage overall delivery. Integritas will be the initial proof-layer implementation used in the reference flow.
 
 ### Tenzro
-Tenzro will act as Canton implementation partner and subcontractor for Canton-side workflow and smart-contract development.
+Tenzro will act as Canton implementation partner and Minima subcontractor for Canton-side workflow and smart-contract development.
 
 ### Champion Requirement
 As an external proposal, the team understands that support from a Tech & Ops Committee champion is required and will work to secure appropriate sponsorship as part of the submission and review process.
