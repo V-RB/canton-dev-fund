@@ -7,12 +7,14 @@ This proposal requests Canton Development Fund support to build a reusable refer
 The project combines three elements:
 
 - Integritas (built by Minima AG) as the proof and provenance layer for machine-originated operational data
-- Tenzro (Technical champion) as the Canton implementation partner for workflow and smart-contract development
+- Tenzro as the Canton implementation partner for workflow and smart-contract development
 - Canton’s privacy-preserving coordination and settlement environment
 
 The purpose of the proposal is not to fund proprietary Integritas product development. The purpose is to create shared Canton ecosystem value through a reusable reference architecture, proof-ingestion pattern, workflow design, and demonstration implementation that other Canton ecosystem participants can learn from and adapt.
 
 The initial use case is industrial and mobility asset finance, beginning with electric commercial fleets and adjacent physical asset financing scenarios. In these environments, verified data such as utilization, uptime, maintenance compliance, and other operational events can improve risk assessment, covenant monitoring, servicing, and payment or settlement logic.
+
+The same reference pattern can also support a broader class of machine-mediated financial workflows, where verified machine activity or autonomous system actions trigger financing, servicing, settlement, or other contractual events.
 
 This proposal is intended to contribute to the Canton ecosystem as:
 
@@ -88,6 +90,9 @@ This proposal also expands Canton’s practical application footprint into a new
 - machine-triggered servicing and settlement
 - operationally informed asset underwriting and monitoring
 - financing logic tied to trusted external data
+- future machine-mediated and agent-coordinated financial workflows driven by trusted external activity
+
+Beyond the initial industrial asset-finance use case, this reference pattern is relevant to an emerging class of workflows in which verified machine behavior and autonomous system activity can drive financial actions. As industrial systems become more software-defined and increasingly coordinated by autonomous agents, the ability to connect trusted operational truth to private, institutionally suitable financial workflows becomes more strategically important. This gives Canton a pathway into machine-mediated financial infrastructure, not just static asset-finance processes.
 
 Rather than positioning Canton as a generic integration target for a proprietary product, this proposal treats Canton as the financial workflow and settlement layer in a reusable reference architecture that can be extended to multiple asset-finance and real-world financing use cases.
 
@@ -207,13 +212,13 @@ Funding is requested on a milestone basis in Canton Coin (CC), in line with Deve
 
 ### Proposed Funding Structure
 
-- **Milestone 1:** Architecture, requirements, and design package — **[200k CC]**
-- **Milestone 2:** Canton-side implementation and workflow build — **[200k CC]**
-- **Milestone 3:** End-to-end demonstration use case — **[500kCC]**
-- **Milestone 4:** Documentation and ecosystem reuse pack — **[340k CC]**
-- **Milestone 5:** Adoption validation and next-phase roadmap — **[200k cc]**
+- **Milestone 1:** Architecture, requirements, and design package — **340k CC**
+- **Milestone 2:** Canton-side implementation and workflow build — **340k CC**
+- **Milestone 3:** End-to-end demonstration use case — **340k CC**
+- **Milestone 4:** Documentation and ecosystem reuse pack — **340k CC**
+- **Milestone 5:** Adoption validation and next-phase roadmap — **340k CC**
 
-**Total Requested Funding:** **[1.44m CC]**
+**Total Requested Funding:** **1.7m CC**
 
 If the project duration exceeds six months, the team is open to re-evaluation of milestone values in line with Development Fund guidance on price volatility and longer-duration projects.
 
@@ -244,4 +249,4 @@ This matters because it can help attract:
 - mobility and equipment-finance participants
 - ecosystem builders looking for real-world asset-finance use cases
 
-The result is a proposal that combines technical credibility with ecosystem utility and a practical market-facing adoption path.
+It also creates a pathway for a broader class of machine-mediated financial workflows, where verified machine activity and autonomous system behavior can coordinate and trigger financial actions within institutionally suitable Canton-based environments.
