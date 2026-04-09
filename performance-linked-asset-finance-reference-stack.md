@@ -1,5 +1,9 @@
 # Performance-Linked Asset Finance Reference Stack for Canton
 
+Author: Richard Brown
+Status: Submitted 
+Created: 2026-04-09
+
 ## Objective and Scope
 
 This proposal requests Canton Development Fund support to build a reusable reference stack for performance-linked asset finance on Canton, where trusted machine-originated operational data can drive financing, servicing, and settlement workflows.
